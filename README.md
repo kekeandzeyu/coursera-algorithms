@@ -10,4 +10,4 @@ Want to know more about my notes taken during studying Algorithms course? Please
 
 This repository is under MIT License.
 
-All the materials of Algorithms course, including projects, courseware and so forth, are under their original license.
+All the materials of Algorithms course in this repository, including projects, courseware, etc., are under their original license.
