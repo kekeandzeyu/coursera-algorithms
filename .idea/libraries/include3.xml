@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="include3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Projects/include/algs4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Projects/include/checkstyle-lift.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Projects/include/stdlib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Projects/include/introcs.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
