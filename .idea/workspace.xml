@@ -2,109 +2,172 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f523f13e-34e7-4249-a88e-52b1346c55d1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Projects/Project1-HelloWorld/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project1-HelloWorld/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project1-HelloWorld/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project1-HelloWorld/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project1-HelloWorld/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project1-HelloWorld/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project1-HelloWorld/InputFiles/WELCOME.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project1-HelloWorld/InputFiles/algorithms.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project1-HelloWorld/InputFiles/animals.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project1-HelloWorld/InputFiles/animals25.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project1-HelloWorld/InputFiles/animals8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project1-HelloWorld/InputFiles/biased-coin.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project1-HelloWorld/InputFiles/coin.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project1-HelloWorld/InputFiles/colors.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project1-HelloWorld/InputFiles/die.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project1-HelloWorld/InputFiles/dream.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project1-HelloWorld/InputFiles/loaded-die.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project1-HelloWorld/InputFiles/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project1-HelloWorld/InputFiles/names.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project1-HelloWorld/InputFiles/roshambo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project1-HelloWorld/InputFiles/tinyTale.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project1-HelloWorld/InputFiles/two-dice.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project1-HelloWorld/Project1-HelloWorld.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project1-HelloWorld/include/algs4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project1-HelloWorld/include/checkstyle-coursera.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project1-HelloWorld/include/checkstyle-lift.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project1-HelloWorld/include/checkstyle-suppressions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project1-HelloWorld/include/spotbugs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project1-HelloWorld/src/HelloGoodbye.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project1-HelloWorld/src/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project1-HelloWorld/src/RandomWord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/Project2-Percolation.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/include/algs4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/include/checkstyle-coursera.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/include/checkstyle-lift.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/include/checkstyle-suppressions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/include/introcs.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/include/spotbugs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/include/stdlib.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/eagle25.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/eagle25.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/greeting57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/greeting57.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/heart25.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/heart25.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/input1-no.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/input1-no.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/input1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/input1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/input10-no.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/input10-no.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/input10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/input10.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/input2-no.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/input2-no.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/input2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/input2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/input20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/input20.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/input3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/input3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/input4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/input4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/input5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/input5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/input50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/input50.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/input6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/input6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/input7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/input7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/input8-dups.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/input8-dups.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/input8-no.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/input8-no.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/input8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/input8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/java60.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/java60.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/jerry47.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/jerry47.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/princeton96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/princeton96.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/sedgewick60.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/sedgewick60.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/snake101.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/snake101.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/snake13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/snake13.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/wayne98.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/inputFiles/wayne98.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/src/InteractivePercolationVisualizer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/src/Percolation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/src/PercolationStats.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project2-Percolation/src/PercolationVisualizer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project3-DequesAndRandomizedQueues/Project3-DequesAndRandomizedQueues.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/8puzzle/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/8puzzle.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/include/algs4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/include/checkstyle-coursera.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/include/checkstyle-lift.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/include/checkstyle-suppressions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/include/spotbugs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle00.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle14.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle16.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle17.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle18.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle19.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle22.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle23.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle24.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle25.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle26.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle27.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle28.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle29.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle2x2-00.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle2x2-01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle2x2-02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle2x2-03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle2x2-04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle2x2-05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle2x2-06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle2x2-unsolvable1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle2x2-unsolvable2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle2x2-unsolvable3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle30.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle31.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle32.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle33.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle34.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle35.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle36.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle37.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle38.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle39.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-00.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-14.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-16.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-17.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-18.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-19.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-22.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-23.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-24.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-25.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-26.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-27.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-28.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-29.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-30.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-31.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-unsolvable.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-unsolvable1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle3x3-unsolvable2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle40.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle41.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle42.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle43.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle44.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle45.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle46.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle47.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle48.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle49.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-00.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-14.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-16.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-17.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-18.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-19.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-22.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-23.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-24.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-25.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-26.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-27.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-28.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-29.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-30.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-31.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-32.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-33.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-34.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-35.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-36.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-37.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-38.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-39.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-40.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-41.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-42.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-43.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-44.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-45.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-46.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-47.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-48.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-49.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-50.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-78.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-80.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle4x4-unsolvable.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/inputFiles/puzzle50.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/src/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8puzzle/src/PuzzleChecker.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,25 +177,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2pNFb5r6HXPD6MSwx9xYg3oTCkp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/kekea/Desktop/coursera-algorithms/HelloWorld",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;//wsl.localhost/Ubuntu-24.04/home/kekeandzeyu/coursera-algorithms&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -150,6 +213,10 @@
       <option name="presentableId" value="Default" />
       <updated>1732598694384</updated>
       <workItem from="1732598695578" duration="11000" />
+      <workItem from="1733624161142" duration="31000" />
+      <workItem from="1733625898876" duration="4000" />
+      <workItem from="1733625909241" duration="21000" />
+      <workItem from="1733625980930" duration="20000" />
     </task>
     <servers />
   </component>
