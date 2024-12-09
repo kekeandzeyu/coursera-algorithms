@@ -5,7 +5,7 @@ public class Board {
 
     private final int[][] tiles;
     private final int n;
-    private int blankRow, blankCol;
+    private int blankRow, blankCol; // Mark the location of blank tile
 
     /**
      * Create a board from an n-by-n array of tiles.
@@ -32,15 +32,15 @@ public class Board {
      * @return String representation of the board
      */
     public String toString() {
-        StringBuilder sb = new StringBuilder();
-        sb.append(n).append("\n");
+        StringBuilder str = new StringBuilder();
+        str.append(n).append("\n");
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
-                sb.append(String.format("%2d ", tiles[i][j]));
+                str.append(String.format("%2d ", tiles[i][j]));
             }
-            sb.append("\n");
+            str.append("\n");
         }
-        return sb.toString();
+        return str.toString();
     }
 
     /**
